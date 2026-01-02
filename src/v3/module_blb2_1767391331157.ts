@@ -1,0 +1,1 @@
+const util_blb2 = (d: any) => d;
