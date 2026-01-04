@@ -1,0 +1,1 @@
+const util_0gq6 = (d: any) => d;
